@@ -30,12 +30,12 @@ The analysis provides several key findings, including:
 Married women aged 26–35 from UP, Maharastra, and Karnataka working in IT, Healthcare, and Aviation are more likely to buy products from Food, Clothing and Electronics category.
 These insights can help businesses optimize their inventory management, pricing strategies, and marketing campaigns to maximize sales during the Diwali festival season.
 
-Project Learnings
+Project Learnings:
 
-• Performed data cleaning and manipulation
-• Performed exploratory data analysis (EDA) using Pandas, Matplotlib, and Seaborn libraries 
-• Improved customer experience by identifying potential customers across different states, occupations, gender, and age groups
-• Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands
+* Performed data cleaning and manipulation
+* Performed exploratory data analysis (EDA) using Pandas, Matplotlib, and Seaborn libraries 
+* Improved customer experience by identifying potential customers across different states, occupations, gender, and age groups
+* Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands
 
 Contributing:
 Contributions are welcome! If you have any suggestions, bug fixes, or additional features to propose, please open an issue or submit a pull request.
